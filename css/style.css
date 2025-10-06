@@ -62,9 +62,11 @@ a.primary-button {
 .font-size-20px {
     font-size: 20px;
 }
-.font-weight-600{
- font-weight:600;
+
+.font-weight-600 {
+    font-weight: 600;
 }
+
 .anouncment-bar-warraper {
     background-color: var(--bb-colour);
     position: relative;
@@ -278,6 +280,7 @@ img.drop-img {
 .dropdown:hover .dropdown-content {
     display: grid;
 }
+
 /* cart */
 .add-to-cart-inner {
     width: 34%;
@@ -314,7 +317,7 @@ img.drop-img {
     padding: 45px 30px;
     display: flex;
     justify-content: flex-end;
-     color: #596c7d;
+    color: #596c7d;
 }
 
 .log-in {
@@ -370,12 +373,15 @@ input#search {
     border: none;
     padding: 13px 366px 13px 21px;
 }
+
 input#search {
     outline: none;
 }
-.cancel-search{
-      color: #596c7d;
+
+.cancel-search {
+    color: #596c7d;
 }
+
 .search-content {
     background-color: #596c7d;
     opacity: 0.3;
@@ -383,6 +389,7 @@ input#search {
     overflow: hidden;
     z-index: -1;
 }
+
 .responsive-menu ul.list {
     display: flex;
     gap: 40px;
