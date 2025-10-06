@@ -368,9 +368,11 @@ img.drop-img {
 
 input#search {
     width: 100%;
-    outline:none;
     border: none;
     padding: 13px 366px 13px 21px;
+}
+input#search {
+    outline: none;
 }
 .cancel-search{
       color: #596c7d;
