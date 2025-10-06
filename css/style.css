@@ -16,7 +16,7 @@ body {
     text-transform: uppercase;
 }
 
-.none {
+.hidden {
     display: none;
 }
 
@@ -278,7 +278,6 @@ img.drop-img {
 .dropdown:hover .dropdown-content {
     display: grid;
 }
-
 /* cart */
 .add-to-cart-inner {
     width: 34%;
