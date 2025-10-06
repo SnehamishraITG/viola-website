@@ -366,11 +366,13 @@ img.drop-img {
     border-radius: 4px;
     color: #596c7d;
     border: 1px solid #596c7d;
+    background-color: var(--bb-colour);
 }
 
 input#search {
     width: 100%;
     border: none;
+    background: var(--bb-colour);
     padding: 13px 366px 13px 21px;
 }
 

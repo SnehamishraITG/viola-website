@@ -19,6 +19,7 @@ function cancel_cart() {
 //search
 function search() {
   serch.classList.remove("hidden")
+    document.body.style.overflow = 'hidden';
 }
 //cancel-search
 function cancel_search() {
